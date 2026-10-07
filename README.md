@@ -19,7 +19,7 @@
 
 - 🔭 Software engineer at **Hisotech**, building production web, mobile and AI products.
 - 🎬 Built the backend of an **AI video generation SaaS**: ComfyUI / SCAIL-2 workflows, an async render pipeline and payments.
-- 🖥️ Self-hosted **Wan2.1 14B** video generation on a single 24 GB GPU, measured at **13.4 videos/hour**.
+- 🖥️ Self-hosted **Wan2.1 14B** video generation on GPU.
 - 📱 Core contributor to **VNSeea**, a social app live on the App Store and Google Play.
 - 🤖 Work daily with AI coding agents: specs and plans first, then tests and code review.
 - 🎯 Next: taking generative AI from prototype to production, covering model serving, LLM apps and the infrastructure behind them.
